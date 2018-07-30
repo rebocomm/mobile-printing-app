@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Rebocomm</string>
+
+    <string name="input_barcode">Nhập barcode</string>
+    <string name="barcode">Barcode</string>
+    <string name="barcode_empty">Barcode không được để trống!</string>
+
+    <string name="input_receiver">Nhập Họ và Tên người nhận</string>
+    <string name="receiver">Người nhận</string>
+    <string name="receiver_empty">Họ và Tên không được để trống!</string>
+
+    <string name="input_phone">Nhập số điện thoại người nhận</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="phone_empty">Số điện thoại không được để trống!</string>
+
+    <string name="input_address">Nhập địa chỉ người nhận</string>
+    <string name="address">Địa chỉ</string>
+    <string name="address_empty">Địa chỉ không được để trống!</string>
+
+    <string name="print">Bắt đầu In</string>
+    <string name="printer">In</string>
+
+    <string name="setting">Cài đặt</string>
+    <string name="refresh">Làm mới</string>
+
+    <string name="no_device">Không tìm thấy thiết bị nào kết nối bluetooth</string>
+    <string name="str_lose">Không có kết nối!</string>
+
+    <string name="str_connected">connected </string>
+    <string name="str_disconnected">not connected to </string>
+    <string name="str_connecting">connecting to </string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="edt_height">45dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="dm_10dp">8dp</dimen>
+</resources>
